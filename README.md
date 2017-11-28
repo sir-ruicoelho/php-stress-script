@@ -1,4 +1,4 @@
-# php-stress-scrypt
+# php-stress-script
 
 ## WARNING: You should not use this!
 Use this only into your sites to test if you developed a secure code
