@@ -1,17 +1,18 @@
-# php-stress-script
+# Php-Stress Script
+Php-stress intensifier with bash.
 
-## WARNING: You should not use this!
-Use this only to test your websites.
+Note: Use this only to test your own websites.
 
 ## Script without tor
 The file myscript_nTor.sh runs without Tor.
+
 ## Script with tor
 To use myscript_Tor.sh make sure you have installed tor and torsocks. 
 
-## Disclaimer: Don't be a dick
-Use it wisely! 
-This script intensifies php-stress written in php.
-Slowloris is available on: https://github.com/user-cube/phpstress
+## Disclaimer
+Use it wisely!
+
+This script intensifies php-stress written in php. Php-stress is available on: https://github.com/user-cube/phpstress
 
 ``` 
 1. Put this script into the same directory of php-stress
