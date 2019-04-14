@@ -12,7 +12,7 @@ To use myscript_Tor.sh make sure you have installed tor and torsocks.
 ## Disclaimer
 Use it wisely!
 
-This script intensifies php-stress written in php. Php-stress is available on: https://github.com/user-cube/phpstress
+This script intensifies php-stress written in php. Php-stress is available on: https://github.com/nightlionsecurity/phpstress
 
 ``` 
 1. Put this script into the same directory of php-stress
